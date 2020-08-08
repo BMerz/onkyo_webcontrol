@@ -1,7 +1,8 @@
 # onkyo_webcontrol
 Control your onkyo receiver by browser
 
-I have written these php-files to navigate by browser through the contents of a DLNA-server and play the music files on the onkyo receiver.
+I have written these php-files to navigate by browser through the contents of a DLNA-server and play the music files on the onkyo receiver. Your webserver communicates with the receiver by EISCP-protocol.
+
 Prerequisites:
 - Webserver (e.g. ngninx)
 - DLNA-Server (e.g. minidlna)
